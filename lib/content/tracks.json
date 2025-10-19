@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "beginner-conversation",
+    "title": "Beginner Conversation",
+    "level": "Beginner",
+    "audioSrc": "/audio/beginner-conversation.mp3",
+    "transcriptSrc": "/audio/beginner-conversation.txt"
+  },
+  {
+    "slug": "intermediate-news",
+    "title": "Intermediate News Update",
+    "level": "Intermediate",
+    "audioSrc": "/audio/intermediate-news.mp3",
+    "transcriptSrc": "/audio/intermediate-news.txt"
+  },
+  {
+    "slug": "advanced-debate",
+    "title": "Advanced Debate Highlights",
+    "level": "Advanced",
+    "audioSrc": "/audio/advanced-debate.mp3",
+    "transcriptSrc": "/audio/advanced-debate.txt"
+  }
+]
